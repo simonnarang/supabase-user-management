@@ -2,6 +2,7 @@
 
 This example will set you up for a very common situation: users can sign up or sign in and then update their account with public profile information, including a profile image.
 
+
 This demonstrates how to use:
 
 - User signups using Supabase [Auth](https://supabase.com/auth).
